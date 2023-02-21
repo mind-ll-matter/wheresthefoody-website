@@ -15,11 +15,15 @@ h1 {
 	color: white;
 
 	/* add border to the font using shadows */
-	text-shadow: 6px 0 #000000, -6px 0 #000, 0 6px #000, 0 -6px #000,
-		3px 3px #000, -3px -3px #000, 3px -3px #000, -3px 3px #000;
+	text-shadow: 5px 0 #ffab0e, -5px 0 #d18800, 0 5px #d18800, 0 -5px #d18800,
+		4px 4px #d18800, -4px -4px #d18800, 4px -4px #d18800, -4px 4px #d18800;
+
+	/* text-shadow: 6px 0 #0051ff, -6px 0 #0051ff, 0 6px #0051ff, 0 -6px #0051ff,
+		4px 4px #0099ff, -4px -4px #0099ff, 4px -4px #0099ff, -4px 4px #0099ff; */
 
 	font-size: 7rem;
-	margin-top: 5rem;
+	margin-top: 6rem;
+	margin-bottom: 2rem;
 }
 
 
